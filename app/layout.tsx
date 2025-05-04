@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: 'RbTh69EKtHJAP5smB4jLQUhFEI-A7ZX58Rv0GxgVOM0',
-        yandex: 'f3a8e7a18fad7714',
+        yandex: '1b1be240d3804151',
     },
 };
 
@@ -46,17 +46,6 @@ export default function RootLayout({
             },
             "foundingDate":"2024-07-18"
         }
-        const jsonLd1 = {
-            "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": `${SITENAME}`,
-        "url": "https://bokepbarbar.pages.dev",
-        "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
-        "image": "https://bokepbarbar.pages.dev/favicon.ico",
-        "potentialAction":{
-            "@type":"ReadAction",
-            "target":"https://bokepbarbar.pages.dev"}
-        }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
@@ -80,10 +69,6 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd1) }}
         />
         <script
           type="application/ld+json"
